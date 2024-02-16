@@ -1,0 +1,16 @@
+/* Essas são as variáveis para usar no site e ficar mais escalável a edição das coisas */
+:root {
+
+  /* Variáveis de Cores */
+  --cor-branco: #FFFFFF;
+  --cor-preto: #000000;
+  --cor-principal: #4672e2a0;
+  --cor-fundo: #112124;
+  --cor-destaque-1: #121f41;
+  --cor-destaque-2: #2a5394;
+
+ /* Variáveis de Fontes */
+ --regular: 'SpaceGrotesk-Medium';
+ --bold: 'SpaceGrotesk-Bold';
+}
+
