@@ -30,7 +30,7 @@
 # objetivos <a name="id01"></a>
 
 
-Input com redirecionamento a qualquer perfil disponível no GitHub. Com um simples preenchimento do nome de usuário, os usuários podem ser redirecionados diretamente para os perfis desejados.
+Aplicação com redirecionamento a qualquer perfil disponível no GitHub. Com um simples preenchimento do @ do usuário, os usuários podem ser redirecionados diretamente para os perfis desejados.
 
 
 
