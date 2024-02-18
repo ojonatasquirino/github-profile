@@ -21,7 +21,6 @@
 - [tecnologias utilizadas](#id04)
 - [ambiente de codificação](#id05)
 - [clonagem e instalação](#id06)
-- [deploy e implatação](#id06.01)
 - [responsividade](#id06.02)
 - [autoria](#id07)
 
