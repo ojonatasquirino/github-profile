@@ -65,26 +65,6 @@ Clone este repositório usando o comando:
 git clone https://github.com/ojonatasquirino/github-profile.git
 ```
 
-Instale na pasta do projeto as dependências com uso do npm ou yarn:
-
-```bash
-npm install
-
-ou
-
-yarn install
-```
-
-Inicie o projeto com:
-
-```bash
-npm start
-
-ou
-
-yarn start
-```
-
 # responsividade  <a name="id06.02"></a>
 
 ## desktop 
